@@ -1,6 +1,6 @@
 from os import path
 import os,base64,zlib,pip,urllib
-os.system('xdg-open https://www.facebook.com/ABAL.TERA.NEXT.PAPA.DJ.RAHID/')
+os.system('xdg-open https://www.facebook.com/sex.life69.bro/')
 print('\n\033[1;97m [•] checking update 1.0.2 \n wait a few sec...')
 
 try:
@@ -522,10 +522,10 @@ logo=("""""""""
 |____| |___||____||____||______.'
                                                                  
 \033[1;33m----------------------------------------------
-\033[1;33m Author     : William Albert 
-\033[1;33m Github     :  x
-\033[1;33m Status      : x
-\033[1;33m Version    :  1.0.2
+\033[1;33m Author     : x 
+\033[1;33m Github     : x
+\033[1;33m Status      :x
+\033[1;33m Version    :  1.1.1
 \033[1;33m----------------------------------------------""")                  
 def linex():
         print('\033[1;97m----------------------------------------------')
@@ -679,7 +679,7 @@ def menu():
         #       chk()
                 x = ("sex")
                 if x == ("sex"):
-                        print(' [1] File cloning\n [2] Create ids file\n [3] Public cloning\n [4] Random cloning\n [6] Facebook Group (join)\n [0] Exit menu')
+                        print(' [1] File cloning\n [2] Create ids file\n [3] Public cloning\n [4] Random cloning\n [6] Exit menu')
                         linex()
                         xd=input(' Choose an option: ')
                         if xd in ['1','01']:
